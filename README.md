@@ -1,5 +1,5 @@
 # SimpleCRUD
-A simple CRUD application for my CS230 modules assignment. I used: React,Node.js,Express,MySQLWorkbech.
+A simple CRUD application for my CS module assignment. I used: React,Node.js,Express,MySQLWorkbech.
 Please click the youtube link provided for an app demo video: 
 https://www.youtube.com/watch?v=xtgjMawhWQg
 
